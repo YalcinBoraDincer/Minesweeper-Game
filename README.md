@@ -1,2 +1,3 @@
 # Minesweeper-Game
-Alanını kendinizin belirleyebileceği Matin Tabanlı Mayın Tarlası oyunu 
+Alanını kendinizin belirleyebileceği metin tabanlı mayın tarlası oyunu.
+
